@@ -1,0 +1,26 @@
+{
+  "name": "jst",
+  "version": "0.1.0",
+  "description": "javascript select tool",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/can-dy-jack/jst.git"
+  },
+  "files": [
+    "lib"
+  ],
+  "keywords": [
+    "javascript"
+  ],
+  "author": "kart jim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/can-dy-jack/jst/issues"
+  },
+  "homepage": "https://github.com/can-dy-jack/jst#readme",
+  "devDependencies": {}
+}
