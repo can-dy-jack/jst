@@ -4,7 +4,8 @@
   "description": "javascript select tool",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup --config"
   },
   "repository": {
     "type": "git",
@@ -22,5 +23,7 @@
     "url": "https://github.com/can-dy-jack/jst/issues"
   },
   "homepage": "https://github.com/can-dy-jack/jst#readme",
-  "devDependencies": {}
+  "devDependencies": {
+    "rollup": "^2.75.6"
+  }
 }
